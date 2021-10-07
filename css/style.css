@@ -906,6 +906,7 @@ i.material-icons {
     top: 81%;
     cursor: pointer;
     font-size: 60px;
+    display:inline;
 }
 
 
