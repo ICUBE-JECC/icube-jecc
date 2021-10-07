@@ -12,6 +12,9 @@ body {
   color: #444;
   font-family: "Open Sans", sans-serif;
 }
+html{
+  scroll-behavior:smooth;
+}
 
 a {
   color: #50d8af;
