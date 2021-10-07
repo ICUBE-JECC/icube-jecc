@@ -1,1 +1,1 @@
-Buliding a ICUBE Web
+Building a ICUBE Web
