@@ -895,6 +895,22 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 3px solid #50d8af;
 }
 
+
+/* DM Button */
+
+i.material-icons {
+    color: #50d8af;
+    width: 90%;
+    position: fixed;
+    left: 93%;
+    top: 75%;
+    cursor: pointer;
+    font-size: 60px;
+}
+
+
+
+
 /* Our Team Section
 --------------------------------*/
 #team {
