@@ -900,10 +900,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 i.material-icons {
     color: #50d8af;
-    width: 90%;
+    width: 85%;
     position: fixed;
     left: 95%;
-    top: 82%;
+    top: 81%;
     cursor: pointer;
     font-size: 60px;
 }
